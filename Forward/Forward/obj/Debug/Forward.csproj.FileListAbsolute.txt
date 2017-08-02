@@ -1,0 +1,18 @@
+c:\users\панаскин дн\documents\visual studio 2015\Projects\Forward\Forward\bin\Debug\Forward.exe.config
+c:\users\панаскин дн\documents\visual studio 2015\Projects\Forward\Forward\bin\Debug\Forward.exe
+c:\users\панаскин дн\documents\visual studio 2015\Projects\Forward\Forward\bin\Debug\Forward.pdb
+c:\users\панаскин дн\documents\visual studio 2015\Projects\Forward\Forward\obj\Debug\Forward.csprojResolveAssemblyReference.cache
+c:\users\панаскин дн\documents\visual studio 2015\Projects\Forward\Forward\obj\Debug\Forward.Form1.resources
+c:\users\панаскин дн\documents\visual studio 2015\Projects\Forward\Forward\obj\Debug\Forward.Properties.Resources.resources
+c:\users\панаскин дн\documents\visual studio 2015\Projects\Forward\Forward\obj\Debug\Forward.csproj.GenerateResource.Cache
+c:\users\панаскин дн\documents\visual studio 2015\Projects\Forward\Forward\obj\Debug\Forward.exe
+c:\users\панаскин дн\documents\visual studio 2015\Projects\Forward\Forward\obj\Debug\Forward.pdb
+C:\Users\home\Documents\Visual Studio 2015\Projects\Forward\Forward\bin\Debug\Forward.exe.config
+C:\Users\home\Documents\Visual Studio 2015\Projects\Forward\Forward\obj\Debug\Forward.exe
+C:\Users\home\Documents\Visual Studio 2015\Projects\Forward\Forward\obj\Debug\Forward.pdb
+C:\Users\home\Documents\Visual Studio 2015\Projects\Forward\Forward\bin\Debug\Forward.exe
+C:\Users\home\Documents\Visual Studio 2015\Projects\Forward\Forward\bin\Debug\Forward.pdb
+C:\Users\home\Documents\Visual Studio 2015\Projects\Forward\Forward\obj\Debug\Forward.csprojResolveAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2015\Projects\Forward\Forward\obj\Debug\Forward.Form1.resources
+C:\Users\home\Documents\Visual Studio 2015\Projects\Forward\Forward\obj\Debug\Forward.Properties.Resources.resources
+C:\Users\home\Documents\Visual Studio 2015\Projects\Forward\Forward\obj\Debug\Forward.csproj.GenerateResource.Cache
